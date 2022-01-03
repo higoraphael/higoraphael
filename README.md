@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá eu sou Higor Siqueira 👋
 
-<!--
-**higoraphael/higoraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+- 📚 Atualmente estou aprendendo Kotlin 
+- 🎓Cursando Análise e Desenvolvimento de Sistemas na Unigran
+- 🛠️Construindo a base da minha carreira em I.T
+- 📫 Como me encontrar: higoraphaelhr@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  
+<img align="center" alt="Higor-Kt" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  
+<img align="center" alt="Higor-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  
+<img align="center" alt="Higor-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  
+<img align="center" alt="Higor-Js" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higoraphael&show_icons=true&theme=highcontrast)
