@@ -1,4 +1,4 @@
-### Olá eu sou Higor Siqueira 👋
+### Olá, eu sou Higor Siqueira 👋
 
  
 
