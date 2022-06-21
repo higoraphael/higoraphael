@@ -2,7 +2,7 @@
 
  
 
-- 📚 Atualmente estou aprendendo Kotlin 
+
 - 🎓Cursando Análise e Desenvolvimento de Sistemas na Unigran
 - 🛠️Construindo a base da minha carreira
 - 📫 Como me encontrar: higoraphaelhr@gmail.com
